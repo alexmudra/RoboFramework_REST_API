@@ -1,4 +1,4 @@
-initial acticle https://ravthiru.medium.com/automate-rest-api-testing-with-robot-framework-ad1959057517
+initial article https://ravthiru.medium.com/automate-rest-api-testing-with-robot-framework-ad1959057517
 
 ### Build Docker Image
 To build image run the script `build_image.sh`
