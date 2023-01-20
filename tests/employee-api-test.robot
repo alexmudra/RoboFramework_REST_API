@@ -8,7 +8,7 @@ Set expectations
     Expect response         { "status": { "enum": [200, 201, 204, 400] } }
     Expect response         { "seconds": { "maximum": 5 } }
 
-
+#get 'Set expectations' error
 *** Test Cases ***
 
 Get Employee
